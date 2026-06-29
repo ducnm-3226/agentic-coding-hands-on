@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- HomeHeader content descriptions -->
+    <string name="home_header_logo_desc">Sun* Award</string>
+    <string name="home_header_search_desc">Search</string>
+    <string name="home_header_notifications_desc">Notifications</string>
+
+    <!-- HomeHero labels -->
+    <string name="home_hero_coming_soon">Coming soon</string>
+    <string name="home_hero_event_occurred">The event has already taken place</string>
+    <string name="home_hero_time_label">Date: </string>
+    <string name="home_hero_location_label">Venue:</string>
+    <string name="home_hero_live_stream_note">Live coverage on the Sun* Family Facebook Group</string>
+    <string name="home_hero_about_award_button">ABOUT AWARD</string>
+    <string name="home_hero_about_kudos_button">ABOUT KUDOS</string>
+
+    <!-- CountdownTimer -->
+    <string name="home_countdown_ended">The event has ended</string>
+    <string name="home_countdown_label_days">DAYS</string>
+    <string name="home_countdown_label_hours">HOURS</string>
+    <string name="home_countdown_label_minutes">MINUTES</string>
+
+    <!-- HomeNote body paragraph -->
+    <string name="home_note_body">More than just a name, &#8220;Root Further&#8221; embodies the spirit every Sun* member strives for: always looking deeply in every context and constantly innovating, expanding oneself to overcome the limits one has previously set. Drawing on the metaphor of color theory — from just three primary colors: red, yellow, and blue — the boundless creativity of each individual can produce a nearly infinite spectrum of colors, with every shade representing limitless breakthrough and innovation.</string>
+
+    <!-- HomeAwards section -->
+    <string name="home_awards_eyebrow">Sun* Annual Awards 2025</string>
+    <string name="home_awards_section_title">Award System</string>
+
+    <!-- HomeKudos section -->
+    <string name="home_kudos_section_title">Recognition Movement</string>
+    <string name="home_kudos_subtitle">Sun* Kudos</string>
+    <string name="home_kudos_note_heading">WHAT\'S NEW IN SAA 2025</string>
+    <string name="home_kudos_note_body">A peer recognition and appreciation activity — happening for the first time for all Sunners. The activity will be rolled out in November 2025, encouraging Sun* members to share recognition and appreciation messages with colleagues on the platform announced by the organizing committee. This will serve as input for the Heads Council when selecting award recipients.</string>
+    <string name="home_kudos_detail_button">Details</string>
+
+    <!-- AwardCard "Chi tiết" link -->
+    <string name="home_award_detail_button">Details</string>
+
+    <!-- HomeBottomNav tab labels -->
+    <string name="home_nav_tab_home">SAA 2025</string>
+    <string name="home_nav_tab_awards">Awards</string>
+    <string name="home_nav_tab_kudos">Kudos</string>
+    <string name="home_nav_tab_profile">Profile</string>
+
+    <!-- HomeFab content descriptions -->
+    <string name="home_fab_write_kudos_desc">Write kudos</string>
+    <string name="home_fab_kudos_desc">Kudos</string>
+</resources>

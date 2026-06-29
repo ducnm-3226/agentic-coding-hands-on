@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- AwardHighlightDropdown — expand/collapse button content description -->
+    <string name="award_expand_dropdown">Expand award list</string>
+
+    <!-- AwardHighlightDropdown -->
+    <string name="award_highlight_sub_label">Sun* Annual Awards 2025</string>
+    <string name="award_highlight_section_title">SAA 2025 Award System</string>
+
+    <!-- AwardKvKudosHeader -->
+    <string name="award_kv_kudos_subtitle">Recognition &amp; Appreciation System</string>
+
+    <!-- AwardInfoBlock stat labels -->
+    <string name="award_stat_quantity_label">Number of awards</string>
+    <string name="award_stat_prize_label">Award value</string>
+    <string name="award_prize_note_individual">for individual award</string>
+    <string name="award_prize_note_team">for team award</string>
+
+    <!-- AwardKudosBlock -->
+    <string name="award_kudos_sub_label">Recognition movement</string>
+    <string name="award_kudos_title">Sun* Kudos</string>
+    <string name="award_kudos_badge">WHAT\'S NEW IN SAA 2025</string>
+    <string name="award_kudos_description">Sun* Kudos is an internal recognition movement where every Sun* member can send words of thanks, praise, and Kudos points to honor the positive contributions of colleagues in daily work. This is an opportunity for everyone to express appreciation, build a culture of spreading recognition, and strengthen connections across the entire organization.</string>
+    <string name="award_kudos_detail_button">Details</string>
+</resources>

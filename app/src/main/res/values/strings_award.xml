@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- AwardHighlightDropdown — expand/collapse button content description -->
+    <string name="award_expand_dropdown">Mở rộng danh sách giải thưởng</string>
+
+    <!-- AwardHighlightDropdown -->
+    <string name="award_highlight_sub_label">Sun* Annual Awards 2025</string>
+    <string name="award_highlight_section_title">Hệ thống giải thưởng SAA 2025</string>
+
+    <!-- AwardKvKudosHeader -->
+    <string name="award_kv_kudos_subtitle">Hệ thống ghi nhận và cảm ơn</string>
+
+    <!-- AwardInfoBlock stat labels -->
+    <string name="award_stat_quantity_label">Số lượng giải thưởng</string>
+    <string name="award_stat_prize_label">Giá trị giải thưởng</string>
+    <string name="award_prize_note_individual">cho giải cá nhân</string>
+    <string name="award_prize_note_team">cho giải tập thể</string>
+
+    <!-- AwardKudosBlock -->
+    <string name="award_kudos_sub_label">Phong trào ghi nhận</string>
+    <string name="award_kudos_title">Sun* Kudos</string>
+    <string name="award_kudos_badge">ĐIỂM MỚI CỦA SAA 2025</string>
+    <string name="award_kudos_description">Sun* Kudos là phong trào ghi nhận nội bộ, nơi mỗi thành viên Sun* có thể gửi lời cảm ơn, lời khen và điểm Kudos để vinh danh những đóng góp tích cực của đồng nghiệp trong công việc hàng ngày. Đây là cơ hội để mỗi người thể hiện sự trân trọng, xây dựng văn hóa ghi nhận lan tỏa và kết nối gắn kết hơn trong toàn tổ chức.</string>
+    <string name="award_kudos_detail_button">Chi tiết</string>
+</resources>

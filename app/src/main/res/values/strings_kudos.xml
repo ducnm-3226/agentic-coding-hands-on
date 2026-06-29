@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- KudosCard — transfer row labels / action row -->
+    <string name="kudos_sender_label">Người gửi</string>
+    <string name="kudos_receiver_label">Người nhận</string>
+    <string name="kudos_action_view_detail">Xem chi tiết</string>
+    <string name="kudos_action_copy_link">Copy Link</string>
+    <string name="kudos_like_content_desc">Like</string>
+
+    <!-- KudosScreen — send bar prompt -->
+    <string name="kudos_send_bar_prompt">Hôm nay, bạn muốn gửi kudos đến ai?</string>
+
+    <!-- Shared section eyebrow (used in Highlight, Spotlight, All Kudos) -->
+    <string name="kudos_eyebrow_event">Sun* Annual Awards 2025</string>
+
+    <!-- KudosHighlightSection -->
+    <string name="kudos_section_highlight_title">HIGHLIGHT KUDOS</string>
+
+    <!-- KudosSpotlightBoard -->
+    <string name="kudos_section_spotlight_title">SPOTLIGHT BOARD</string>
+    <string name="kudos_spotlight_kudos_count">388 KUDOS</string>
+    <string name="kudos_spotlight_network_placeholder">Spotlight Network</string>
+    <string name="kudos_spotlight_search_hint">Tìm kiếm</string>
+
+    <!-- KudosAllSection / AllKudosScreen -->
+    <string name="kudos_section_all_title">ALL KUDOS</string>
+    <string name="kudos_recipients_block_title">10 SUNNER NHẬN QUÀ MỚI NHẤT</string>
+    <string name="kudos_view_all_link">View all Kudos</string>
+
+    <!-- AllKudosScreen — top bar title -->
+    <string name="kudos_all_screen_title">All Kudos</string>
+
+    <!-- KudosStatsBlock — stat labels + button -->
+    <string name="kudos_stat_received">Số Kudos bạn nhận được:</string>
+    <string name="kudos_stat_given">Số Kudos bạn đã gửi:</string>
+    <string name="kudos_stat_hearts_received">Số tim bạn nhận được:</string>
+    <string name="kudos_stat_secret_box_opened">Số Secret Box bạn đã mở:</string>
+    <string name="kudos_stat_secret_box_unopened">Số Secret Box chưa mở:</string>
+    <string name="kudos_open_secret_box">Mở Secret Box</string>
+
+    <!-- KudosFilters — dropdown placeholders -->
+    <string name="kudos_filter_hashtag">Hashtag</string>
+    <string name="kudos_filter_department">Phòng ban</string>
+
+    <!-- KudosEmptyState -->
+    <string name="kudos_empty_state_message">Hiện tại chưa có Kudos nào.</string>
+
+    <!-- KudosHighlightSection — carousel navigation arrow content descriptions -->
+    <string name="kudos_carousel_previous">Trước</string>
+    <string name="kudos_carousel_next">Tiếp theo</string>
+
+    <!-- KudosTopBar — back button content description -->
+    <string name="kudos_back_content_desc">Quay lại</string>
+
+    <!-- CommunityStandardsScreen — top bar title -->
+    <string name="kudos_community_standards_screen_title">Tiêu chuẩn chung</string>
+
+    <!-- CommunityStandardsScreen — section headings -->
+    <string name="kudos_cs_community_heading">Tiêu chuẩn cộng đồng</string>
+    <string name="kudos_cs_security_heading">Tiêu chuẩn bảo mật</string>
+
+    <!-- CommunityStandardsScreen — intro paragraph (Community Standards) -->
+    <string name="kudos_cs_community_intro">Tiêu chuẩn Cộng đồng (Community Standards) được xây dựng nhằm đảm bảo một môi trường văn minh, an toàn và tích cực cho tất cả thành viên tham gia phong trào ghi nhận, cảm ơn Sun* Kudos.</string>
+
+    <!-- CommunityStandardsScreen — warning paragraph (Community Standards) -->
+    <string name="kudos_cs_community_warning">Các nội dung phát hiện có một trong những tiêu chí vi phạm bên dưới sẽ được gắn nhãn Spam và được hệ thống chủ động ẩn.</string>
+
+    <!-- CommunityStandardsScreen — 10 violation criteria -->
+    <string name="kudos_cs_criterion_1">Sử dụng từ ngữ thô tục, chửi bậy, hay có nội dung xúc phạm, bôi nhọ.</string>
+    <string name="kudos_cs_criterion_2">Đề cập đến các vấn đề chính trị, tôn giáo, phân biệt giới tính.</string>
+    <string name="kudos_cs_criterion_3">Chứa số liệu cụ thể (doanh thu, hợp đồng, KPI, khách hàng, mã dự án, số tài khoản...).</string>
+    <string name="kudos_cs_criterion_4">Đề cập tên đối tác, khách hàng, tổ chức bên ngoài.</string>
+    <string name="kudos_cs_criterion_5">Chứa thông tin cá nhân (email, số điện thoại, địa chỉ, thông tin gia đình).</string>
+    <string name="kudos_cs_criterion_6">Gửi lặp lại 3+ tin nhắn có nội dung tương tự nhau trong thời gian ngắn.</string>
+    <string name="kudos_cs_criterion_7">Nội dung Kudos quá ngắn (dưới 30 kí tự), không có ngữ cảnh (\"Cảm ơn nhiều\", \"Thanks nhé\", \"Good job!\").</string>
+    <string name="kudos_cs_criterion_8">Gửi cho quá nhiều người/nhóm người trong thời gian ngắn (&lt;3s/lời nhắn).</string>
+    <string name="kudos_cs_criterion_9">Ngôn từ spam (chỉ chứa ký tự như \"!\", \".\", \"...\", hay ký tự không có nội dung).</string>
+    <string name="kudos_cs_criterion_10">Mức độ \"tim\" tăng đột biến bất thường (theo hành vi người dùng trung bình).</string>
+
+    <!-- CommunityStandardsScreen — security standards body paragraphs -->
+    <string name="kudos_cs_security_intro">Sunner cam kết bảo vệ thông tin. Mọi thành viên có trách nhiệm bảo mật nội dung chia sẻ trên hệ thống.</string>
+    <string name="kudos_cs_security_bullet_1">Bảo mật Thông tin: Toàn bộ thông tin Sunner chia sẻ sẽ được bảo mật trên hệ thống.</string>
+    <string name="kudos_cs_security_bullet_2">Phạm vi Chia sẻ: Toàn bộ thông tin nhân sự và dự án trong hệ thống được bảo mật. Sunner vui lòng chỉ chia sẻ trong nội bộ Sun*.</string>
+    <string name="kudos_cs_security_contact">Liên hệ Hỗ trợ: Mọi thắc mắc, Sunner vui lòng liên hệ đại diện BTC SAA: Slack duong.thi.thuy.an để được hỗ trợ.</string>
+</resources>

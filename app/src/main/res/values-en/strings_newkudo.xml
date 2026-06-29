@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Top bar -->
+    <string name="newkudo_top_bar_title">New Kudo</string>
+
+    <!-- Action bar buttons -->
+    <string name="newkudo_btn_cancel">Cancel</string>
+    <string name="newkudo_btn_send">Send</string>
+
+    <!-- Form card title -->
+    <string name="newkudo_card_title">Send appreciation and recognition to your teammate</string>
+
+    <!-- Recipient field -->
+    <string name="newkudo_recipient_label">Recipient</string>
+    <string name="newkudo_recipient_placeholder">Search</string>
+
+    <!-- Award title field -->
+    <string name="newkudo_award_label">Award title</string>
+    <string name="newkudo_award_placeholder">Give a title to this award…</string>
+    <string name="newkudo_award_helper">Example: The one who motivates me.\nThis title will be displayed as your Kudos heading.</string>
+
+    <!-- Message editor -->
+    <string name="newkudo_message_placeholder">Share your appreciation and recognition with your teammate here!</string>
+    <string name="newkudo_message_mention_helper">You can use \"@ + name\" to mention other colleagues</string>
+    <string name="newkudo_community_standards">Community standards</string>
+
+    <!-- Hashtag field -->
+    <string name="newkudo_hashtag_label">Hashtag</string>
+    <string name="newkudo_hashtag_add_btn">Hashtag (Max 5)</string>
+
+    <!-- Image row -->
+    <string name="newkudo_image_label">Image</string>
+    <string name="newkudo_image_add_btn">Image (Max 5)</string>
+
+    <!-- Anonymous toggle -->
+    <string name="newkudo_anonymous_label">Send appreciation and recognition anonymously</string>
+
+    <!-- Validation error -->
+    <string name="newkudo_validation_error">Please fill in Recipient, Award title, Message, and Hashtag to send your Kudos!</string>
+
+    <!-- Hashtag chip — remove button content description (%1$s = hashtag name) -->
+    <string name="newkudo_remove_hashtag">Remove %1$s</string>
+
+    <!-- Hashtag dropdown item — selected indicator content description -->
+    <string name="newkudo_selected">Selected</string>
+
+    <!-- Image row — remove image button content description -->
+    <string name="newkudo_remove_image">Remove image</string>
+
+    <!-- Image row — thumbnail content description (%1$d = index, %2$d = total) -->
+    <string name="newkudo_attached_image">Attached image %1$d of %2$d</string>
+</resources>

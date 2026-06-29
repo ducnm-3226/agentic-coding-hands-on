@@ -1,0 +1,30 @@
+<!-- Kudos tab icon — Figma node I6885:9056;75:2016 "mm_media_kudos" (24x24dp).
+     Design: two overlapping card/square shapes (recognition card stack) with a
+     small heart in the front card. Outline style (stroke 1.5) + filled heart,
+     matches sibling nav icons. Color is applied by the nav bar via ColorFilter.tint. -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="24dp"
+    android:height="24dp"
+    android:viewportWidth="24"
+    android:viewportHeight="24">
+    <!-- Back card (offset up-right, peeking behind the front card) -->
+    <path
+        android:fillColor="@android:color/transparent"
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="1.5"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"
+        android:pathData="M11,3.5 H18.5 C19.6046,3.5 20.5,4.3954 20.5,5.5 V12.5 C20.5,13.6046 19.6046,14.5 18.5,14.5" />
+    <!-- Front card (offset down-left, fully visible) -->
+    <path
+        android:fillColor="@android:color/transparent"
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="1.5"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"
+        android:pathData="M5.5,9.5 H13 C14.1046,9.5 15,10.3954 15,11.5 V18.5 C15,19.6046 14.1046,20.5 13,20.5 H5.5 C4.3954,20.5 3.5,19.6046 3.5,18.5 V11.5 C3.5,10.3954 4.3954,9.5 5.5,9.5 Z" />
+    <!-- Heart inside the front card (filled) -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M9.25,17.4 C9.25,17.4 6.4,15.5 6.4,13.55 C6.4,12.7 7.05,12.15 7.8,12.15 C8.3,12.15 8.95,12.45 9.25,13.0 C9.55,12.45 10.2,12.15 10.7,12.15 C11.45,12.15 12.1,12.7 12.1,13.55 C12.1,15.5 9.25,17.4 9.25,17.4 Z" />
+</vector>

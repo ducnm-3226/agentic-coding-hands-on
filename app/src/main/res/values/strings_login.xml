@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Login screen — static UI copy (Vietnamese / fallback) -->
+    <!-- Logo content description — brand name, same in both locales -->
+    <string name="login_logo_desc">Sun* Award</string>
+    <string name="login_tagline">Bắt đầu hành trình của bạn cùng SAA 2025.\nĐăng nhập để khám phá!</string>
+    <string name="login_copyright">Bản quyền thuộc về Sun* © 2025</string>
+    <string name="login_login_google">LOGIN With Google</string>
+</resources>

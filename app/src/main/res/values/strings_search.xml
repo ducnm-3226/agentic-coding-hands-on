@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- SearchScreen — top bar -->
+    <string name="search_back_content_desc">Quay lại</string>
+    <string name="search_placeholder">Tìm kiếm sunner, kudos, giải thưởng…</string>
+
+    <!-- SearchScreen — recent searches -->
+    <string name="search_recent_label">Tìm kiếm gần đây</string>
+    <string name="search_recent_clear">Xóa tất cả</string>
+
+    <!-- SearchScreen — section headers -->
+    <string name="search_section_people">Sunner</string>
+    <string name="search_section_kudos">Kudos</string>
+    <string name="search_section_awards">Giải thưởng</string>
+
+    <!-- SearchScreen — empty / no-result states -->
+    <string name="search_empty_hint">Nhập từ khóa để tìm kiếm sunner, kudos hoặc giải thưởng.</string>
+    <string name="search_no_results">Không tìm thấy kết quả cho "%1$s"</string>
+
+    <!-- SearchScreen — kudo result row -->
+    <string name="search_kudo_sender_to_receiver">%1$s → %2$s</string>
+</resources>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Profile screen — icon collection label -->
+    <string name="profile_icon_collection_label">My icon collection</string>
+
+    <!-- Profile screen — send kudos bar (other profile); %1$s = recipient name -->
+    <string name="profile_send_kudos_to">Send thanks and recognition to %1$s</string>
+
+    <!-- Profile screen — static received pill (other profile); %1$d = kudos count -->
+    <string name="profile_received_kudos_pill">Received %1$d kudos</string>
+
+    <!-- Profile kudos section header -->
+    <string name="profile_awards_eyebrow">Sun* Annual Awards 2025</string>
+    <string name="profile_kudos_section_title">KUDOS</string>
+
+    <!-- Profile filter dropdown; %1$d = count -->
+    <string name="profile_filter_received">Received (%1$d)</string>
+    <string name="profile_filter_sent">Sent (%1$d)</string>
+</resources>

@@ -1,0 +1,10 @@
+<!-- Down caret for language selector (node I6885:8976;65:2468) — solid filled triangle per Figma -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="24dp"
+    android:height="24dp"
+    android:viewportWidth="24"
+    android:viewportHeight="24">
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M7,10 L17,10 L12,15 Z" />
+</vector>

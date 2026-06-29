@@ -1,0 +1,16 @@
+<!-- Pen icon for FAB — Figma node I6885:9058;75:2164 "MM_MEDIA_Pen" (24x24dp).
+     Design shows a black pen only (no document/page outline). Single stroked
+     pen drawn diagonally; color #00101A applied directly (FAB tints to match). -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="24dp"
+    android:height="24dp"
+    android:viewportWidth="24"
+    android:viewportHeight="24">
+    <path
+        android:fillColor="@android:color/transparent"
+        android:strokeColor="#00101A"
+        android:strokeWidth="1.5"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"
+        android:pathData="M18.5,2.5 C18.8978,2.1022 19.4391,1.8789 20,1.8789 C20.5609,1.8789 21.1022,2.1022 21.5,2.5 C21.8978,2.8978 22.1211,3.4391 22.1211,4 C22.1211,4.5609 21.8978,5.1022 21.5,5.5 L12,15 L8,16 L9,12 Z" />
+</vector>

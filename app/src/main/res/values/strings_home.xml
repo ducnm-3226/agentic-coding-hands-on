@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- HomeHeader content descriptions -->
+    <string name="home_header_logo_desc">Sun* Award</string>
+    <string name="home_header_search_desc">Tìm kiếm</string>
+    <string name="home_header_notifications_desc">Thông báo</string>
+
+    <!-- HomeHero labels -->
+    <string name="home_hero_coming_soon">Coming soon</string>
+    <string name="home_hero_event_occurred">Sự kiện đã diễn ra</string>
+    <string name="home_hero_time_label">Thời gian: </string>
+    <string name="home_hero_location_label">Địa điểm:</string>
+    <string name="home_hero_live_stream_note">Tường thuật trực tiếp tại Group Facebook Sun* Family</string>
+    <string name="home_hero_about_award_button">ABOUT AWARD</string>
+    <string name="home_hero_about_kudos_button">ABOUT KUDOS</string>
+
+    <!-- CountdownTimer -->
+    <string name="home_countdown_ended">Sự kiện đã kết thúc</string>
+    <string name="home_countdown_label_days">DAYS</string>
+    <string name="home_countdown_label_hours">HOURS</string>
+    <string name="home_countdown_label_minutes">MINUTES</string>
+
+    <!-- HomeNote body paragraph -->
+    <string name="home_note_body">Không đơn thuần là một cái tên, &#8220;Root Further&#8221; chính là tinh thần mà mỗi người Sun* đang hướng tới: luôn nhìn nhận sâu sắc trong mọi bối cảnh và không ngừng sáng tạo, mở rộng bản thân để vượt qua những giới hạn mà chính mình đã từng đặt ra. Mượn hình ảnh ẩn dụ của lý thuyết phối màu, chỉ từ ba màu cơ bản: đỏ, vàng và lam, sức sáng tạo vô tận của mỗi cá nhân có thể tạo ra số lượng màu sắc gần như vô hạn, với mỗi gam màu đều đại diện cho sự bứt phá và sáng tạo không giới hạn.</string>
+
+    <!-- HomeAwards section -->
+    <string name="home_awards_eyebrow">Sun* Annual Awards 2025</string>
+    <string name="home_awards_section_title">Hệ thống giải thưởng</string>
+
+    <!-- HomeKudos section -->
+    <string name="home_kudos_section_title">Phong trào ghi nhận</string>
+    <string name="home_kudos_subtitle">Sun* Kudos</string>
+    <string name="home_kudos_note_heading">ĐIỂM MỚI CỦA SAA 2025</string>
+    <string name="home_kudos_note_body">Hoạt động ghi nhận và cảm ơn đồng nghiệp - lần đầu tiên được diễn ra dành cho tất cả Sunner. Hoạt động sẽ được triển khai vào tháng 11/2025, khuyến khích người Sun* chia sẻ những lời ghi nhận, cảm ơn đồng nghiệp trên hệ thống do BTC công bố. Đây sẽ là chất liệu để Hội đồng Heads tham khảo trong quá trình lựa chọn người đạt giải.</string>
+    <string name="home_kudos_detail_button">Chi tiết</string>
+
+    <!-- AwardCard "Chi tiết" link -->
+    <string name="home_award_detail_button">Chi tiết</string>
+
+    <!-- HomeBottomNav tab labels -->
+    <string name="home_nav_tab_home">SAA 2025</string>
+    <string name="home_nav_tab_awards">Awards</string>
+    <string name="home_nav_tab_kudos">Kudos</string>
+    <string name="home_nav_tab_profile">Profile</string>
+
+    <!-- HomeFab content descriptions -->
+    <string name="home_fab_write_kudos_desc">Viết kudos</string>
+    <string name="home_fab_kudos_desc">Kudos</string>
+</resources>

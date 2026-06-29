@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- KudosCard — transfer row labels / action row -->
+    <string name="kudos_sender_label">Sender</string>
+    <string name="kudos_receiver_label">Receiver</string>
+    <string name="kudos_action_view_detail">View detail</string>
+    <string name="kudos_action_copy_link">Copy Link</string>
+    <string name="kudos_like_content_desc">Like</string>
+
+    <!-- KudosScreen — send bar prompt -->
+    <string name="kudos_send_bar_prompt">Who do you want to send kudos to today?</string>
+
+    <!-- Shared section eyebrow (used in Highlight, Spotlight, All Kudos) -->
+    <string name="kudos_eyebrow_event">Sun* Annual Awards 2025</string>
+
+    <!-- KudosHighlightSection -->
+    <string name="kudos_section_highlight_title">HIGHLIGHT KUDOS</string>
+
+    <!-- KudosSpotlightBoard -->
+    <string name="kudos_section_spotlight_title">SPOTLIGHT BOARD</string>
+    <string name="kudos_spotlight_kudos_count">388 KUDOS</string>
+    <string name="kudos_spotlight_network_placeholder">Spotlight Network</string>
+    <string name="kudos_spotlight_search_hint">Search</string>
+
+    <!-- KudosAllSection / AllKudosScreen -->
+    <string name="kudos_section_all_title">ALL KUDOS</string>
+    <string name="kudos_recipients_block_title">TOP 10 LATEST GIFT RECIPIENTS</string>
+    <string name="kudos_view_all_link">View all Kudos</string>
+
+    <!-- AllKudosScreen — top bar title -->
+    <string name="kudos_all_screen_title">All Kudos</string>
+
+    <!-- KudosStatsBlock — stat labels + button -->
+    <string name="kudos_stat_received">Kudos you have received:</string>
+    <string name="kudos_stat_given">Kudos you have sent:</string>
+    <string name="kudos_stat_hearts_received">Hearts you have received:</string>
+    <string name="kudos_stat_secret_box_opened">Secret Boxes you have opened:</string>
+    <string name="kudos_stat_secret_box_unopened">Secret Boxes not yet opened:</string>
+    <string name="kudos_open_secret_box">Open Secret Box</string>
+
+    <!-- KudosFilters — dropdown placeholders -->
+    <string name="kudos_filter_hashtag">Hashtag</string>
+    <string name="kudos_filter_department">Department</string>
+
+    <!-- KudosEmptyState -->
+    <string name="kudos_empty_state_message">No Kudos available yet.</string>
+
+    <!-- KudosHighlightSection — carousel navigation arrow content descriptions -->
+    <string name="kudos_carousel_previous">Previous</string>
+    <string name="kudos_carousel_next">Next</string>
+
+    <!-- KudosTopBar — back button content description -->
+    <string name="kudos_back_content_desc">Go back</string>
+
+    <!-- CommunityStandardsScreen — top bar title -->
+    <string name="kudos_community_standards_screen_title">General Standards</string>
+
+    <!-- CommunityStandardsScreen — section headings -->
+    <string name="kudos_cs_community_heading">Community Standards</string>
+    <string name="kudos_cs_security_heading">Security Standards</string>
+
+    <!-- CommunityStandardsScreen — intro paragraph (Community Standards) -->
+    <string name="kudos_cs_community_intro">Community Standards are established to ensure a civilized, safe, and positive environment for all members participating in the Sun* Kudos recognition and appreciation movement.</string>
+
+    <!-- CommunityStandardsScreen — warning paragraph (Community Standards) -->
+    <string name="kudos_cs_community_warning">Content detected to violate one of the criteria below will be labeled as Spam and proactively hidden by the system.</string>
+
+    <!-- CommunityStandardsScreen — 10 violation criteria -->
+    <string name="kudos_cs_criterion_1">Using profanity, insults, or content that is offensive or defamatory.</string>
+    <string name="kudos_cs_criterion_2">Mentioning political, religious, or gender-discriminatory issues.</string>
+    <string name="kudos_cs_criterion_3">Containing specific figures (revenue, contracts, KPIs, clients, project codes, account numbers, etc.).</string>
+    <string name="kudos_cs_criterion_4">Mentioning names of partners, clients, or external organizations.</string>
+    <string name="kudos_cs_criterion_5">Containing personal information (email, phone number, address, family details).</string>
+    <string name="kudos_cs_criterion_6">Sending 3 or more messages with similar content repeatedly in a short period.</string>
+    <string name="kudos_cs_criterion_7">Kudos content that is too short (under 30 characters) or lacks context (e.g. \"Thanks a lot\", \"Thanks!\", \"Good job!\").</string>
+    <string name="kudos_cs_criterion_8">Sending to too many people/groups in a short period (&lt;3s per message).</string>
+    <string name="kudos_cs_criterion_9">Spam language (containing only characters such as \"!\", \".\", \"...\", or characters without meaningful content).</string>
+    <string name="kudos_cs_criterion_10">An abnormally sudden spike in \"hearts\" (based on average user behavior).</string>
+
+    <!-- CommunityStandardsScreen — security standards body paragraphs -->
+    <string name="kudos_cs_security_intro">Sunners commit to protecting information. All members are responsible for keeping shared content confidential within the system.</string>
+    <string name="kudos_cs_security_bullet_1">Information Security: All information shared by Sunners will be kept confidential within the system.</string>
+    <string name="kudos_cs_security_bullet_2">Sharing Scope: All personnel and project information within the system is confidential. Sunners are requested to share only within Sun* internally.</string>
+    <string name="kudos_cs_security_contact">Support Contact: For any questions, Sunners are welcome to contact the SAA Organizing Committee representative via Slack: duong.thi.thuy.an for assistance.</string>
+</resources>

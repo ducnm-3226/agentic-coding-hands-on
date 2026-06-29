@@ -1,0 +1,54 @@
+<!-- UK / English flag (Union Jack — simplified vector for 24dp icon) -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="24dp"
+    android:height="24dp"
+    android:viewportWidth="24"
+    android:viewportHeight="24">
+
+    <!-- Blue field -->
+    <path
+        android:fillColor="#012169"
+        android:pathData="M0,0h24v24H0z" />
+
+    <!-- White St Andrew's diagonal cross (X) — broad stripes -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M0,0 L24,16 L24,24 L24,8 L0,16 L0,24 L0,8 L24,0 Z" />
+    <!-- Simplified as two white diagonal bands -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M-2,-2 L26,26"
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="5" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M26,-2 L-2,26"
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="5" />
+
+    <!-- Red St Patrick's diagonal cross (X) — thin stripes -->
+    <path
+        android:strokeColor="#C8102E"
+        android:strokeWidth="2"
+        android:pathData="M-2,-2 L26,26" />
+    <path
+        android:strokeColor="#C8102E"
+        android:strokeWidth="2"
+        android:pathData="M26,-2 L-2,26" />
+
+    <!-- White St George's cross — vertical & horizontal broad -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M10,0 h4 v24 h-4z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M0,10 h24 v4 h-24z" />
+
+    <!-- Red St George's cross — vertical & horizontal -->
+    <path
+        android:fillColor="#C8102E"
+        android:pathData="M11,0 h2 v24 h-2z" />
+    <path
+        android:fillColor="#C8102E"
+        android:pathData="M0,11 h24 v2 h-24z" />
+</vector>

@@ -1,0 +1,21 @@
+<!-- Kudos "Chi tiết" (Detail) button arrow — diagonal up-right (↗), bold stroke to match Figma (node I6885:9055;28:1997). Dark on yellow button. -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="24dp"
+    android:height="24dp"
+    android:viewportWidth="24"
+    android:viewportHeight="24">
+    <path
+        android:fillColor="@android:color/transparent"
+        android:strokeColor="#00101A"
+        android:strokeWidth="2.5"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"
+        android:pathData="M7,17 L17,7" />
+    <path
+        android:fillColor="@android:color/transparent"
+        android:strokeColor="#00101A"
+        android:strokeWidth="2.5"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"
+        android:pathData="M7,7 H17 V17" />
+</vector>

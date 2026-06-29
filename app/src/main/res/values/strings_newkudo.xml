@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Top bar -->
+    <string name="newkudo_top_bar_title">New Kudo</string>
+
+    <!-- Action bar buttons -->
+    <string name="newkudo_btn_cancel">Huỷ</string>
+    <string name="newkudo_btn_send">Gửi đi</string>
+
+    <!-- Form card title -->
+    <string name="newkudo_card_title">Gửi lời cám ơn và ghi nhận đến đồng đội</string>
+
+    <!-- Recipient field -->
+    <string name="newkudo_recipient_label">Người nhận</string>
+    <string name="newkudo_recipient_placeholder">Tìm kiếm</string>
+
+    <!-- Award title field -->
+    <string name="newkudo_award_label">Danh hiệu</string>
+    <string name="newkudo_award_placeholder">Dành tặng một danh hiệu cho...</string>
+    <string name="newkudo_award_helper">Ví dụ: Người truyền động lực cho tôi.\nDanh hiệu sẽ hiển thị làm tiêu đề Kudos của bạn.</string>
+
+    <!-- Message editor -->
+    <string name="newkudo_message_placeholder">Hãy gửi gắm lời cám ơn và ghi nhận đến đồng đội tại đây nhé!</string>
+    <string name="newkudo_message_mention_helper">Bạn có thể \"@ + tên\" để nhắc tới đồng nghiệp khác</string>
+    <string name="newkudo_community_standards">Tiêu chuẩn cộng đồng</string>
+
+    <!-- Hashtag field -->
+    <string name="newkudo_hashtag_label">Hashtag</string>
+    <string name="newkudo_hashtag_add_btn">Hashtag (Tối đa 5)</string>
+
+    <!-- Image row -->
+    <string name="newkudo_image_label">Image</string>
+    <string name="newkudo_image_add_btn">Image (Tối đa 5)</string>
+
+    <!-- Anonymous toggle -->
+    <string name="newkudo_anonymous_label">Gửi lời cám ơn và ghi nhận ẩn danh</string>
+
+    <!-- Validation error -->
+    <string name="newkudo_validation_error">Bạn cần điền đủ Người nhận, Danh hiệu, Lời nhắn gửi và Hashtag để gửi Kudos!</string>
+
+    <!-- Hashtag chip — remove button content description (%1$s = hashtag name) -->
+    <string name="newkudo_remove_hashtag">Xóa %1$s</string>
+
+    <!-- Hashtag dropdown item — selected indicator content description -->
+    <string name="newkudo_selected">Đã chọn</string>
+
+    <!-- Image row — remove image button content description -->
+    <string name="newkudo_remove_image">Xóa ảnh</string>
+
+    <!-- Image row — thumbnail content description (%1$d = index, %2$d = total) -->
+    <string name="newkudo_attached_image">Ảnh đính kèm %1$d / %2$d</string>
+</resources>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- SearchScreen — top bar -->
+    <string name="search_back_content_desc">Go back</string>
+    <string name="search_placeholder">Search sunners, kudos, awards…</string>
+
+    <!-- SearchScreen — recent searches -->
+    <string name="search_recent_label">Recent searches</string>
+    <string name="search_recent_clear">Clear all</string>
+
+    <!-- SearchScreen — section headers -->
+    <string name="search_section_people">Sunners</string>
+    <string name="search_section_kudos">Kudos</string>
+    <string name="search_section_awards">Awards</string>
+
+    <!-- SearchScreen — empty / no-result states -->
+    <string name="search_empty_hint">Type a keyword to search for sunners, kudos, or awards.</string>
+    <string name="search_no_results">No results found for "%1$s"</string>
+
+    <!-- SearchScreen — kudo result row -->
+    <string name="search_kudo_sender_to_receiver">%1$s → %2$s</string>
+</resources>
